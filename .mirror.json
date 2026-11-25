@@ -1,5 +1,15 @@
 {
- "assets": {},
+ "assets": {
+  "50-rpg-sound-effects": "e5e5c25e428ee09e2b57c83fad1906829696983d",
+  "51-ui-sound-effects-buttons-switches-and-clicks": "068ed473939b45e1ee724065911fd84f96bbfe41",
+  "54-casino-sound-effects-cards-dice-chips": "43fa76333258700d66f0c2890c748f2245b2dba1",
+  "63-digital-sound-effects-lasers-phasers-space-etc": "87fb569cfe63daeb1c813c9819e08699049d07f3",
+  "85-short-music-jingles": "eedb05fe51a680e49053fa3ad8e9f2828b0a6c26",
+  "interface-sounds": "c101345cbb8161588ca82944fa02040e09fbbb5b",
+  "sci-fi-sounds": "74bbdce4c713da5ad26f93f3037899f815bba8de",
+  "voiceover-pack-40-lines": "5d4fc6fa5e5bd016f8cd631282b4cb5393c8c557",
+  "voiceover-pack-fighter-40-taunts": "5d8765f23445a20f29ad33a815cd52ebe2fe81a7"
+ },
  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
  "site": "https://opengameart.org",
  "source": "opengameart",
